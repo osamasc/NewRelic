@@ -22,6 +22,7 @@ class BackgroundJobListener extends AbstractTransactionListener
 
     public function onRequest(MvcEvent $e): void
     {
+        return;
         $request = $e->getRequest();
         if (!$request instanceof ConsoleRequest && !$this->isMatchedRequest($e)) {
             return;

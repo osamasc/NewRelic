@@ -14,10 +14,9 @@
         }
     ],
     "require": {
-        "php": "^7.2",
+        "php": "^8.2",
         "psr/container": "1.0",
         "monolog/monolog": "^1.17 || ^2.0",
-        "laminas/laminas-console": "^2.6",
         "laminas/laminas-eventmanager": "^2.6 || ^3.0",
         "laminas/laminas-servicemanager": "^2.7 || ^3.0",
         "laminas/laminas-http": "^2.5",
