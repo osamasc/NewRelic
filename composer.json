@@ -1,5 +1,5 @@
 {
-    "name": "neeckeloo/newrelic",
+    "name": "osamasc/NewRelic",
     "description": "NewRelic module for Laminas",
     "type": "library",
     "keywords": [
